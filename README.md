@@ -1,9 +1,8 @@
 # site-bootstrap
-Site com framework Bootstrap
-
 Site implementado com o uso do framework Bootstrap para front-end.
 
 Para acesso imediato acesse o link abaixo.
+https://jromolina.github.io/site-bootstrap/
 
 :computer: Tecnologias :computer:
 
@@ -41,7 +40,7 @@ Todas as funcionalidades estão plenamente funcionais! :dart:
 
 ✉️ Email
 
-**Entre em contato nos endereços eletrônicos abaixo:**
+**Nosso contato nos endereços eletrônicos abaixo:**
 
 jromolina@gmail.com
 
