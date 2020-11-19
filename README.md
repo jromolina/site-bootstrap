@@ -3,9 +3,7 @@ Site com framework Bootstrap
 
 Site implementado com o uso do framework Bootstrap para front-end.
 
-:angel: Para Recrutadores !
-
-Por favor acessem o link abaixo especialmente configurado para vocês, assim vocês tem mais uma opção disponível!
+Para acesso imediat acesse o link abaixo.
 
 :computer: Tecnologias :computer:
 
@@ -32,9 +30,10 @@ Todas as funcionalidades estão plenamente funcionais! :dart:
 
 🖼️Imagens
 
-| Tela Inicial do Site |
-|---|
-|![Site_B1](https://user-images.githubusercontent.com/30197988/99709143-8f656e80-2a7d-11eb-9427-f061456d74a4.png)| 
+| Tela Inicial | Parceiros & Serviços | 
+|---|---|
+| ![Site_B1](https://user-images.githubusercontent.com/30197988/99709819-87f29500-2a7e-11eb-802c-7f2f05b5cb1b.png) | ![Site_B2](https://user-images.githubusercontent.com/30197988/99710311-27b02300-2a7f-11eb-803c-daae87c48b77.png) | 
+
 
 📃 Licensa
 
