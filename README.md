@@ -3,7 +3,7 @@ Site com framework Bootstrap
 
 Site implementado com o uso do framework Bootstrap para front-end.
 
-Para acesso imediat acesse o link abaixo.
+Para acesso imediato acesse o link abaixo.
 
 :computer: Tecnologias :computer:
 
