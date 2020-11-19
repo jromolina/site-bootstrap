@@ -32,9 +32,9 @@ Todas as funcionalidades estão plenamente funcionais! :dart:
 
 🖼️Imagens
 
-| Tela Principal do Site |
+| Tela Inicial do Site |
 |---|
-|![SiteClinica](https://user-images.githubusercontent.com/30197988/99673691-dc344f80-2a53-11eb-8e2a-009afde894f7.png)| 
+|![Site_B1](https://user-images.githubusercontent.com/30197988/99709143-8f656e80-2a7d-11eb-9427-f061456d74a4.png)| 
 
 📃 Licensa
 
